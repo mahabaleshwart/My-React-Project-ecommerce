@@ -11,7 +11,8 @@ This is a fully functional e-commerce frontend application built using **ReactJS
 - 🧾 Place Order Functionality
 - ⚛️ Built using ReactJS Functional Components and Hooks
 
-![image](https://github.com/user-attachments/assets/d3a8c7bd-edfd-41dc-8cc7-bc9ffd8b807c)
+![image](https://github.com/user-attachments/assets/d537c8e2-e99d-41d8-baf0-40e32e069bc8)
+
 
 ![image](https://github.com/user-attachments/assets/cd808287-3c0c-41af-a58f-0c79ed37ddcf)
 
