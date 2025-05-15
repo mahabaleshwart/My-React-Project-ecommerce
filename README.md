@@ -13,12 +13,12 @@ This is a fully functional e-commerce frontend application built using **ReactJS
 
 ![image](https://github.com/user-attachments/assets/d537c8e2-e99d-41d8-baf0-40e32e069bc8)
 
+![image](https://github.com/user-attachments/assets/f3516095-e0a3-44e2-9a08-bad3eae48e73)
 
-![image](https://github.com/user-attachments/assets/cd808287-3c0c-41af-a58f-0c79ed37ddcf)
+![image](https://github.com/user-attachments/assets/4b081f1d-df99-41a8-a11b-b69f6be6747f)
 
-![image](https://github.com/user-attachments/assets/331b38e0-8f49-4e67-a5cb-8e41105b7d86)
+![image](https://github.com/user-attachments/assets/ee43c51f-1e77-4fcf-8dee-02ba065a05d8)
 
-![image](https://github.com/user-attachments/assets/b6604f62-7b9d-42c7-ad15-98e4ade99d02)
 
 
 
