@@ -65,7 +65,7 @@ export default function Home() {
         <div style={styles.container}>
             <h1 style={styles.heading}>
                 <FaStoreAlt size={30} color="rebeccapurple" />
-                Explore Our Products
+                Explore Different Products
             </h1>
             <div style={styles.filters}>
                 <input
@@ -92,4 +92,4 @@ export default function Home() {
             </div>
         </div>
     );
-}
+}  
